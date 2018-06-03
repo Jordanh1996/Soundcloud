@@ -1,0 +1,18 @@
+.trackPlayerNoUrl {
+    border: 1.5px dashed #A9A9A9;
+    display: flex;
+    flex: 1;
+    text-align: center;
+    justify-content: center;
+}
+
+.trackPlayerNoUrlText {
+    color: #A9A9A9;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 96px;
+    text-shadow: 0 0 1.5px #333333;
+    display: flex;
+    align-items: center;
+    transform: rotateZ(325deg);
+}

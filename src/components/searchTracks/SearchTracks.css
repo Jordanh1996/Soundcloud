@@ -1,0 +1,10 @@
+.searchTracksContainer {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.SearchesActivityIndicator {
+    margin-top: 5rem;
+    align-self: center;
+}

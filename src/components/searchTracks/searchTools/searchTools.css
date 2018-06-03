@@ -1,0 +1,47 @@
+.searchTools {
+    margin-top: auto;
+}
+
+.searchTools-spaceBetween {
+    display: flex;
+    justify-content: space-between;
+}
+
+.searchToolsDisplaySection {
+    display: flex;
+    align-items: center;
+}
+
+.searchToolsArrow {
+    height: 3.5rem;
+    width: 5rem;
+    cursor: pointer;
+    transition: opacity 0.7s;
+}
+
+.searchToolsArrow:hover {
+    opacity: 0.8;
+}
+
+.searchToolsList {
+    height: 2.5rem;
+    width: 2.5rem;
+    cursor: pointer;
+    transition: opacity 0.7s;
+    margin-right: 0.5rem;
+}
+
+.searchToolsList:hover {
+    opacity: 0.8;
+}
+
+.searchToolsGrid {
+    height: 2.7rem;
+    width: 2.7rem;
+    cursor: pointer;
+    transition: opacity 0.7s;
+}
+
+.searchToolsGrid:hover {
+    opacity: 0.8;
+}

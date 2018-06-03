@@ -1,0 +1,10 @@
+.searchListNoResults {
+    text-align: center;
+    color: #A9A9A9;
+    margin-top: 2rem;
+    letter-spacing: 0.4px;
+}
+
+.searchList {
+    margin-top: 1rem;
+}

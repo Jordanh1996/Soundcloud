@@ -1,0 +1,8 @@
+.grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: auto;
+    align-items: stretch;
+    justify-content: space-evenly;
+}

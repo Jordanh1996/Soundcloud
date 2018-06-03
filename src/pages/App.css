@@ -1,0 +1,5 @@
+.appContainer {
+    display: flex;
+    height: calc(100vh - 3.2rem);
+    align-items: stretch;
+}

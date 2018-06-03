@@ -1,0 +1,23 @@
+.gridItemContainer {
+    display: flex;
+    width: 43%;
+    flex-direction: column;
+    margin: 6px;
+    border: 1px solid #A9A9A9;
+    box-shadow: 0 0 5px 1px #A9A9A9;
+    background: linear-gradient(30deg, #F0F0F0, #F5F5F5);
+    cursor: pointer;
+}
+
+.gridItemTitle {
+    font-size: 12px;
+    margin: 2px 0 2px 0;
+    padding: 3px;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: 500;
+}
+
+.gridItemImage {
+    max-width: 100%;
+}

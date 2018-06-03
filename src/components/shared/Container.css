@@ -1,0 +1,10 @@
+.container {
+    margin: 0.6rem;
+    padding: 1rem;
+    height: 100%;
+    justify-content: column;
+    background: #F8F8F8;
+    box-shadow: 0 0 5px 1px #333333;
+    border-radius: 4px;
+    display: flex;
+}
